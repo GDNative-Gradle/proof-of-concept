@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/SliderJoint.obj-d105db640ffc86decf4113c7adf438ac.mesh"
+
+[deps]
+
+files=[ "res://.import/SliderJoint.obj-d105db640ffc86decf4113c7adf438ac.mesh" ]
+
+source_file="res://cpp/godot-cpp/src/gen/SliderJoint.obj"
+dest_files=[ "res://.import/SliderJoint.obj-d105db640ffc86decf4113c7adf438ac.mesh", "res://.import/SliderJoint.obj-d105db640ffc86decf4113c7adf438ac.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

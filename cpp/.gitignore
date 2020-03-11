@@ -1,0 +1,7 @@
+.gradle/
+.build/
+.idea/
+
+build/
+
+*.obj

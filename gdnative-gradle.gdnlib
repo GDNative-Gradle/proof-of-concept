@@ -1,0 +1,14 @@
+[general]
+
+singleton=false
+load_once=true
+symbol_prefix="godot_"
+reloadable=true
+
+[entry]
+
+Windows.64="res://cpp/build/lib/main/debug/windows/x86-64/gdnative-gradle.dll"
+
+[dependencies]
+
+Windows.64=[  ]

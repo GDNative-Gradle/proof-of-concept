@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Spatial.obj-e6d6d4a4715cbc59c8afb3a48eb71777.mesh"
+
+[deps]
+
+files=[ "res://.import/Spatial.obj-e6d6d4a4715cbc59c8afb3a48eb71777.mesh" ]
+
+source_file="res://cpp/godot-cpp/src/gen/Spatial.obj"
+dest_files=[ "res://.import/Spatial.obj-e6d6d4a4715cbc59c8afb3a48eb71777.mesh", "res://.import/Spatial.obj-e6d6d4a4715cbc59c8afb3a48eb71777.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
